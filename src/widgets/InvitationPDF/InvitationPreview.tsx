@@ -559,7 +559,7 @@ const InvitationPreview: React.FC<InvitationPreviewProps> = ({
                       fontFamily: "Panton, Arial, sans-serif",
                     }}
                   >
-                    pushka.moscow
+                    pushka.kurgan
                   </div>
                 </div>
               </div>
