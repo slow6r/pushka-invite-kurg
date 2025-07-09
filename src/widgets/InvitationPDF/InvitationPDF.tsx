@@ -425,7 +425,7 @@ const InvitationPDF: React.FC<InvitationPDFProps> = ({
                   src={qr2}
                   style={{ width: 96, height: 96, borderRadius: 8 }}
                 />
-                <Text style={styles.qrLabel}>pushka.moscow</Text>
+                <Text style={styles.qrLabel}>pushka.kurgan</Text>
               </View>
             </View>
           </View>
