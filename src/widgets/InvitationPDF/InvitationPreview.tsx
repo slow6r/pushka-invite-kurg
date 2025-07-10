@@ -306,7 +306,7 @@ const InvitationPreview: React.FC<InvitationPreviewProps> = ({
                 fontFamily: "PantonBold, Panton, Arial, sans-serif",
               }}
             >
-              НАС ЖДЁТ УВЛЕКАТЕЛЬНОЕ ПРИКЛЮЧЕНИЕ
+              НАС ЖДУТ УВЛЕКАТЕЛЬНЫЕ ПРИКЛЮЧЕНИЯ
             </div>
             <div
               style={{
