@@ -18,7 +18,7 @@ function MusicController({
 
   React.useEffect(() => {
     if (audioRef.current) {
-      audioRef.current.volume = 0.5;
+      audioRef.current.volume = 0.2;
       audioRef.current.muted = muted;
       if (playing) {
         audioRef.current.play().catch(() => {});
