@@ -20,7 +20,14 @@ export default function FormPage() {
   const [loading, setLoading] = useState(false);
   const [showInvitation, setShowInvitation] = useState(false);
 
-  const SERVICES = ["АНИМАТОР", "КВЕСТ", "ШОУ", "ЛАЗЕРТАГ", "МАСТЕР-\nКЛАСС"];
+  const SERVICES = [
+    "АНИМАТОР",
+    "КВЕСТ",
+    "ШОУ",
+    "ЛАЗЕРТАГ",
+    "МАСТЕР-\nКЛАСС",
+    "БОУЛИНГ",
+  ];
 
   const handleServiceToggle = (service: string) => {
     setForm((prev) => ({
